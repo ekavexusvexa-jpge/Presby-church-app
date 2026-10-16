@@ -41,11 +41,11 @@ def init_db():
 init_db()
 
 # Church Details
-CHURCH_NAME = "Presbyterian Church of Ghana"
+CHURCH_NAME = "El Zion Congregation"
 LOCATION_NAME = "Asem-Boys M/A, Kumasi, Ghana"
 PHONE_NUMBER = "0242353656"
-EMAIL_ADDRESS = "clergyfrimps@gmail.com"
-FACEBOOK_LIVE_LINK = "https://www.facebook.com/live"
+EMAIL_ADDRESS = "asemasafopcg@gmail.com
+FACEBOOK_LIVE_LINK = "https://www.facebook.com/Asem Asafo Congregation"
 ADMIN_PIN = "1843"
 
 # Header Banner
