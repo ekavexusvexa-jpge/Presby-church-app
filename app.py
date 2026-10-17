@@ -45,7 +45,7 @@ init_db()
 CHURCH_NAME = "El Zion Congregation"
 LOCATION_NAME = "Asem-Boys M/A, Kumasi, Ghana"
 PHONE_NUMBER = "0242353656"
-EMAIL_ADDRESS = "asemasafopcg@gmail.com
+EMAIL_ADDRESS = "asemasafopcg@gmail.com"
 FACEBOOK_LIVE_LINK = "https://www.facebook.com/Asem Asafo Congregation"
 ADMIN_PIN = "1843"
 
