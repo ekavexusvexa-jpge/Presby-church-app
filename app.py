@@ -35,7 +35,8 @@ def init_db():
             "Grace and Peace be unto you! Welcome to the official Presbyterian Church mobile portal.",
             datetime.now().strftime("%Y-%m-%d %H:%M")
         ))
-    conn.commit()
+    conn.commit() 
+
     conn.close()
 
 init_db()
@@ -105,8 +106,7 @@ with tab2:
                               (title, category, author, content, now))
                     conn.commit()
                     conn.close()
-                    st.success("Announcement published successfully!")
-                    st.rerun()
+                    st.success("Announcement published    st.rerun()
                 else:
                     st.error("Please fill in all fields.")
     elif pin != "":
